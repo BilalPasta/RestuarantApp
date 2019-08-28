@@ -1,0 +1,30 @@
+[debug] [2018-08-27T20:31:26.511Z] ----------------------------------------------------------------------
+[debug] [2018-08-27T20:31:26.542Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Bilal Usman\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions
+[debug] [2018-08-27T20:31:26.542Z] CLI Version:   4.2.0
+[debug] [2018-08-27T20:31:26.542Z] Platform:      win32
+[debug] [2018-08-27T20:31:26.542Z] Node Version:  v8.11.3
+[debug] [2018-08-27T20:31:26.542Z] Time:          Mon Aug 27 2018 13:31:26 GMT-0700 (Pacific Daylight Time)
+[debug] [2018-08-27T20:31:26.542Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-27T20:31:26.667Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-27T20:31:26.667Z] > authorizing via signed-in user
+[debug] [2018-08-27T20:31:26.698Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/hanifiamobileapp  
+ 
+[debug] [2018-08-27T20:31:28.730Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-30T11:24:40.138Z] ----------------------------------------------------------------------
+[debug] [2018-08-30T11:24:40.154Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Bilal Usman\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase deploy --only functions
+[debug] [2018-08-30T11:24:40.154Z] CLI Version:   4.2.0
+[debug] [2018-08-30T11:24:40.154Z] Platform:      win32
+[debug] [2018-08-30T11:24:40.154Z] Node Version:  v8.11.3
+[debug] [2018-08-30T11:24:40.169Z] Time:          Thu Aug 30 2018 04:24:40 GMT-0700 (Pacific Daylight Time)
+[debug] [2018-08-30T11:24:40.169Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-08-30T11:24:40.216Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-08-30T11:24:40.216Z] > authorizing via signed-in user
+[debug] [2018-08-30T11:24:40.216Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-08-30T11:24:40.216Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+
+[debug] [2018-08-30T11:24:45.185Z] <<< HTTP RESPONSE 200
+[debug] [2018-08-30T11:24:45.205Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/hanifiamobileapp  
+ 
+[debug] [2018-08-30T11:24:47.480Z] <<< HTTP RESPONSE 200
